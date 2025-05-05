@@ -1,0 +1,9 @@
+/**
+全局样式
+这里的app, 是vue实例
+ */
+html, body, #app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
